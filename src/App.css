@@ -1,0 +1,30 @@
+.App {
+  max-width: 800px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+  flex-direction: column;
+}
+
+ul,
+li {
+  margin: 0px;
+  padding: 0px;
+  list-style: none;
+}
+.card-image{
+  margin-bottom: 10px;
+  width: 100%;
+}
+.card{
+  margin-bottom: 30px;
+}
+.card-description{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+h2{
+  margin: 30px;
+}
